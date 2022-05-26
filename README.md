@@ -1,2 +1,8 @@
-# serial-lcd
-Serial to LCD 4-bit interface converter using a PIC16F18426
+Serial LCD
+==========
+
+Serial LCD is a small program to control a LCD display
+using a UART. It is written for a PIC16F18426.
+The current consumption is about 150 uA.
+
+Use MPLABX and XC8 from Microchip to compile.
